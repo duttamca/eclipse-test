@@ -23,6 +23,7 @@ public class HelloWorldController extends AbstractController {
 		
 		//adding single line comment to controller
 		
+		//comment added from GitHub
 		
 		return new ModelAndView("success",map);
 	}
