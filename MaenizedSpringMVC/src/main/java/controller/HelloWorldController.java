@@ -21,7 +21,7 @@ public class HelloWorldController extends AbstractController {
 		
 		map.put("msg", "Hello..." +name);
 		
-		
+		//adding single line comment to controller
 		
 		
 		return new ModelAndView("success",map);
